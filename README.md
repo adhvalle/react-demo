@@ -2,7 +2,7 @@
 
 Demo con react.js
 
-## Tecnologías:
+### Tecnologías:
 
  * React
  * Babel
